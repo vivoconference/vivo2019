@@ -25,15 +25,11 @@ A printed copy of the poster itself. We will provide a board and material to han
 
 ##### What type and size of poster do I need to make?
 
-Posters will be limited to 35 inches (width) x 35 inches (height).
+Posters will be limited to 95 centimeters (width) X 235 centimeters (height).
 
 ##### Will I have time to see other demos and posters if my submission is accepted?
 
 Attendees will view and discuss your work during the poster/demo reception. In addition, we are encouraging presenters to hang posters earlier during the day so they can be viewed during breaks.
-
-#### FAQ for session presenters
-
-If there are any “special” needs you might foresee beyond displaying a presentation (e.g.  group discussion, video with sound), please let us know in advance so we can try to accommodate them.
 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
