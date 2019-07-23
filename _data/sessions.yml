@@ -15,7 +15,7 @@ For our presentation, we will demonstrate:
 * How to run ReCiter
 * Its API outputs
 * How ReCiter integrates with a third-party interface for capture feedback, feedback which is fed back into ReCiter to further improve accuracy"
-  speakers: ["PaulAlbert", "SarbajitDutta", "MichaelBales", "JieLin"]
+  speakers: ["PaulAlbert", "SarbajitDutta", "MichaelBales", "JieLin", "TerrieWheeler"]
 -
   id: 2
   title: "Open source tools to populate VIVO with Web of Science data"
