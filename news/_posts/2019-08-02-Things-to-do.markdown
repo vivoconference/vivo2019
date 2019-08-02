@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Getting to Podgorica with Grand Travel"
-date:   2019-07-02
+title:  "Things to do in Podgorica"
+date:   2019-08-02
 isStaticPost: false
 ---
 
