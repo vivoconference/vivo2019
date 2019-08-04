@@ -1,26 +1,222 @@
+- :title: Visualising open scientometric data in VIVO
+  :authors: Svantje Lilienthal, Christian Hauschke, Grischa Fraumann
+  :abstract: In the context of the BMBF-funded project ROSI (Reference Implementation
+    for Open Scientometric Indicators), visualisations are being developed and their
+    impact on researchers investigated. For this purpose, only data from open data
+    sources will be collected via persistent identifiers of persons, documents or
+    organisations. Furthermore, a reference implementation based on VIVO will be developed
+    in which various indicators with data from open sources such as Crossref Event
+    Data or Wikidata will be visualized. Interviews and workshops with researchers
+    will be conducted to gather their requirements concerning scientometric data.
+    Findings from the interviews and workshops will be incorporated into the reference
+    implementation in an iterative process. The selection of the indicators, the data
+    aggregation levels and data visualisation types will be addressed. A Registry
+    of Scientometric Data Sources is created as a by-product in which APIs with data
+    relevant for the purposes of scientometrics are captured and made findable. This
+    poster describes the project and presents the current status of the project results.
+  :type: poster
+- :title: The Research Core Dataset (KDSF) in VIVO
+  :authors: Tatiana Walther, Christian Hauschke, Ina Blümel
+  :abstract: In this poster we present our activities aimed at using the Research
+    Core Dataset (KDSF) - a national German standard for reporting - in the VIVO context.
+    In recent times, a constant interest in implementing KDSF into various types of
+    Current Research Information Systems (CRIS) among German research institutions
+    can be observed. At the TIB, an non-public VIVO for KDSF-compliant reporting is
+    being developed. The scope of the activities around KDSF in VIVO covers the alignment
+    of KDSF and VIVO data models, the implementation of additional datasets to meet
+    KDSF requirements, definition of data entry workflows as well as the development
+    of a reporting component.The data models were aligned for both data input and
+    data export, with VIVO ontology being reused as far as possible. Furthermore,
+    KDSF-compliant data recording requiers annotation of entities with subjects from
+    the classification of the German Federal Office of Statistics. To enable the usage
+    of the classification in VIVO, we have converted it into a SKOS concept scheme
+    and made it available on a Skosmos server - readable for both humans and machines.
+    Due to the heterogeneity of institutional data sources and formats a number of
+    individually customized workflows for automated data ingest and update are necessary.
+    The reporting component - the Vitro Query Tool - allows reusing, sharing and scheduling
+    of SPARQL queries for reporting.
+  :type: poster
+- :title: Building TIB-FIS-Discovery - a travel diary
+  :authors: Christian Hauschke, Graham Triggs, Tatiana Walther, Qazi Asim Ijaz Ahmad
+  :abstract: In 2017 the TIB presented a prototype of a publicly available institutional
+    VIVO at the CeBIT computer fair. In the meantime, numerous enhancements and customisations
+    have been made to adapt the system to the needs of the institution. The measures
+    include some changes to the software architecture, such as the improved password
+    encryption already demonstrated in 2018. However, a number of improvements have
+    also been made to the workflows and user interface. In this presentation we would
+    like to introduce the TIB VIVO, called TIB-FIS-Discovery, including the interface
+    based on the Tenderfoot theme, the import and claiming mechanisms adapted from
+    OpenVIVO for publications via Pubmed-ID and DOI as well as the improvements made
+    so far with regard to the internationalization of VIVO. Finally, we would like
+    to point out the desiderata we consider necessary for the success of VIVO in the
+    TIB of comparable institutions. This includes improved multiple language support
+    including a multilingual editor for logged-in VIVO users, simplified workflows
+    for data integration from heterogeneous data sources, and associated generic mechanisms
+    for claiming entities.
+  :type: poster
+- :title: Creating Communities of Innovation in Healthcare
+  :authors: Barbara Rapchak, BS, Vice President Academic Innovation, Intelligent Medical
+    Objects, Inc., Frank Naeymi-Rad, PhD, PhD, MS, MBA. Founder, Chairman of the Board,
+    Intelligent Medical Objects, Inc., Yuri Quintana, PhD, Director of Global Health
+    Informatics, Division of Clinical Informatics, Beth Israel Deaconess Medical Center,
+    Charles Safran MD MS FACMI, Fellowship Director, Professor of Medicine, Chief,
+    Division of Clinical Informatics, Beth Israel Deaconess Medical Center
+  :abstract: AI2 is an accelerator for health informatics innovation. We work with
+    academic centers and industry partners to create communities of innovation, along
+    with industry-academia partnerships in order to accelerate the adoption of informatics
+    innovation. We do this at a physical campus consisting of an accelerator lab and
+    “living lab” with real-world clinical space designed for modeling the clinics
+    of future, and at a virtual campus at AI2.world, which facilitates the sharing
+    of solutions and applications. Our collaborations focus on patient care, engagement,
+    and outcomes. This poster presentation describes the creation and launch of this
+    initiative, focusing on the AI2.world collaboration. Today, healthcare data comes
+    from many sources beyond the electronic health record, including fitness and personal
+    health devices, social media, and genomics sources. This wealth of data is rich
+    with opportunities for innovation, but often requires a wide range of domain expertise
+    to be used effectively. Collaboration and validation are more important than ever.
+    AI2.world facilitates collaboration and validation by providing online access
+    to tools and technologies, datasets, and domain expertise to collaborators who
+    cannot readily visit the physical campus. We are creating a cloud-based model
+    and platform for informatics services and analytics that can be used for research
+    and development of new patient care technologies. At the same time, we are creating
+    a community of innovators from academic centers, healthcare institutions, and
+    industry partners, using a social learning model and crowdsourcing. Social learning
+    and crowdsourcing approaches will be important in training future employees as
+    new skills will be required, driven by advances in informatics, analytics, NLP,
+    pattern recognition and artificial intelligence. For this reason, AI2.world was
+    built using the Alicanto™ social learning platform developed at the Division of
+    Clinical Informatics, Beth Israel Deaconess Medical Center. The platform includes
+    support for a multimedia library that can accommodate video from multiple sources,
+    images and animations, documents, interactive medical calculators, and can integrate
+    with LTI-compliant online learning tools. The site also supports self-paced online
+    courses incorporating materials from the site library and quizzes with multiple
+    choice, true/false and other question types. Public and private groups can be
+    created by community members, with document sharing, threaded discussions and
+    video chat. The goal of AI2 is to help innovators turn health data into information,
+    insight, and innovation quickly and efficiently. It will be a community of practice
+    that facilitates both learning and global multidisciplinary communication on how
+    to implement best practices in informatics and artificial intelligence in healthcare.
+    We have only begun to understand the opportunities in healthcare, research, and
+    industry. AI2.world is a platform for exponential thinking in this expanding universe.
+  :type: poster
+- :title: A cross-institutional, FAIR VIVO for Metabolomics
+  :authors: Michael Conlon, Kevin S. Hanson, Taeber Rapczak, Naomi Braun, Christopher
+    P. Barnes
+  :abstract: Metabolomics is the scientific study of metabolites present within an
+    organism, cell, or tissue. A metabolite is the intermediate end product of metabolism.
+    The term metabolite is usually restricted to small molecules. Metabolomic studies
+    involve the identification of metabolites in biological samples, often by processes
+    involving mass spectroscopy. Datasets from such studies may involve the identification
+    of several thousand compounds leaving tens of thousands unidentified. These data
+    sets are valuable for scientific reuse. The National Institutes of Health in the
+    United States has established a National Metabolomics Data Repository known as
+    the Metabolomics Workbench (www.metabolicsworkbench.org) to provide access to
+    datasets resulting from NIH-funded work. In Europe, the European Molecular Biology
+    Laboratory also provides a data registry. VIVO is being used to create investigator-centric
+    metadata regarding datasets and publications in metabolomics. The initial work
+    is focused on investigators participating in the NIH Common Fund Metabolomics
+    Program. Future work could include other metabolomics investigators. The VIVO
+    for metabolomics will provide metadata to the consortium web site http://metabolomics.info
+    which provides information of interest to all metabolomics investigators, as well
+    as a Triple Pattern Fragments (TPF) endpoint for discovery of metadata regarding
+    metabolomic investigations. The work will improve the findability of metabolomics
+    datasets, as each will be an entity with a profile page, discoverable via popular
+    search engines. Each entry will link directly to the metabolomics workbench, improving
+    accessibility. Much work remains in the metabolomics community on interoperability
+    between repositories -- a long term goal is to support the use of a wide range
+    of metabolomic software tools on the widest possible range of metabolomics datasets.
+    This will require coordination across repositories and development and implementation
+    of common representations. Significant additional work remains on reuse to develop
+    and implement standards for the representation of identification information,
+    quantification, and naming of metabolites.
+  :type: poster
+- :title: Identifying Ontological Domains Related to VIVO
+  :authors: Michael Conlon, Violeta Ilik, Brian Lowe, Christian Hauschke, Marijane
+    White, Muhammad Javed, Naomi Braun
+  :abstract: The VIVO ontology is focused on the domain of scholarship. But to represent
+    scholarship we need terms and relations from other domains. For example, VIVO
+    needs to refer to organizations – people have positions at universities, journals
+    have publishers, memberships are offered by associations and societies. Universities,
+    publishers, associations, and societies are organizations. Representing organizations
+    is important for VIVO, but beyond the domain of scholarship. We need to refer
+    to representations by those who have organizations as their domain and focus the
+    VIVO ontology on the domain of scholarship. VIVO was very early to the world of
+    ontologies. When VIVO began as a semantic application in 2007, there were few
+    good ontologies, few were actively maintained, few were focused on defined domains,
+    and few were developed with consistent principles. Foundries (collections of ontologies
+    with common principles) were emerging. Finding ontologies that could be relied
+    on to build the VIVO ontology was challenging. Organizations, Time, Locations,
+    Research Administration, Research Resources, Journals, Languages, Academic Degrees,
+    and Concept vocabulary, are all potentially separable from VIVO and useful beyond
+    their use in representing scholarship. Some of these domains of representation
+    have ontologies that might merit reuse. Others do not. Other domains of representation
+    such as teaching, service, research impact, awards, and mentoring may not be candidates
+    for separate ontologies at this time. Additional specialty domains need also be
+    considered. These include national vocabularies and taxonomies, as well as those
+    of academic disciplines such as agriculture, the performing arts, and medical
+    research. In creating a version 2 of the VIVO ontology, we seek to identify domains
+    that can be represented and maintained outside of the VIVO ontology, and identify
+    ontologies of those domains that can be reused. In some cases we will not be able
+    to reuse the domain ontology directly, but rather refer to terms in the domain
+    ontology. In this poster we will present an overview of the domains commonly encountered
+    in representing scholarship with analysis and recommendations regarding how each
+    may be treated in version 2 of the VIVO ontology.
+  :type: poster
+- :title: What does a University look like?
+  :authors: Simon Porter, Jared Watts
+  :abstract: Universities come in many different shapes and sizes. Using the Dimensions
+    API to extract coauthorship networks it is possible to build network diagrams
+    that illustrate the collaborative shape of an institution. By shading researchers
+    by the colour of their most frequently used field of research, and sizing their
+    nodes by the number of career publications, these diagrams can also communicate
+    discipline focus. Placed side by side, these networks highlight similarities and
+    differences. Using the Dimensions API, we implemented a repeatable script to extract
+    a collaboration network for an array of institutions identified by their GRID
+    id (http://grid.ac). We then processed these networks using the Gephi toolkit.
+    This allowed us to apply a consistent colour scheme to all graphs, with and identical
+    layout properties. The resultant network diagrams were then assembled into a single
+    poster using Overleaf, with github integration from Gigantum. The code for this
+    project will be available on Gigantum.com
+  :type: poster
+- :title: Refining InCites Benchmarking & Analytics with verified VIVO data
+  :authors: Benjamin Gross, Miguel Garcia
+  :abstract: InCites is a benchmarking and analytics tool built upon best-in-class
+    Web of Science data that enables comprehensive insight into your organization’s
+    performance. Currently in beta release, Clarivate has recently introduced the
+    “My Organization” module for InCites that enables users to refine the InCites
+    dataset using their own verified faculty and disambiguation data. InCites with
+    My Organization delivers standardized researcher, team & departmental reporting
+    to increase relevance of bibliometric data for all users. Leveraging the data
+    produced from existing workflows users have developed to build their VIVO databases,
+    MyOrg subscribers can easily populate their MyOrg module database with VIVO data
+    using open-source Python code available on GitHub at https://github.com/Clarivate-SAR.
+  :type: poster
+- :title: 'From Analysis to Publication: Building Reproducible Data Science Workflows
+    with Dimensions, Gigantum, Figshare, and Overleaf'
+  :authors: Simon Porter, Jared Watts
+  :abstract: 'This poster documents how we made our "What does a University look like?"
+    poster. It details: How we used the Dimensions API to build demographics profiles
+    of University Researchers How we used Gigantum to manage our Jupyter notebooks,
+    and analysis environment How we integrated Figshare to create data assets, with
+    providence links back to the public Gigantum code How we integrated Gigantum with
+    Overleaf to push network diagrams to into our latex templates'
+  :type: poster
 - :title: 'New approaches to research analytics – an overview of the OPERA project:
     Collaborating Danish universities exploring various VIVO platforms'
-  :authors: 'mosa@dtu.dk, nidl@dtu.dk, chste@dtu.dk, kshi@dtu.dk, pmm@aub.aau.dk ;
-    davidp@hum.aau.dk; birger@hum.aau.dk  '
-  :abstract: 'The Danish project OPERA, Open Research Analytics, is a joint collaboration
+  :authors: Mogens Sandfær, Nikoline Dohm Lauridsen, Christina Steensboe, Karen Sofie
+    Hytteballe Ibanez, Poul Melchiorsen, David Budtz, Birger Larsen
+  :abstract: The Danish project OPERA, Open Research Analytics, is a joint collaboration
     between Danish Universities as well as international partners. The project is
     exploring new approaches to best practice research analytics that should be useful,
     relevant and responsible and furthermore acknowledging Open Science endeavors
-    across research areas.    The OPERA project is work in progress and already showing
+    across research areas. The OPERA project is work in progress and already showing
     promising results. Some of the fundamental elements in the project is the VIVO
     platforms showcasing university specific advanced research analytics and a national
     VIVO platform populated with Dimensions data as well as complementing metadata
     underlining the Open Science elements, advanced network analysis and modules exploring
-    the collaboration potential of Danish universities.   The poster will highlight
-    the halfway results and stipulate the next steps and expected outcomes.  '
-- :title: Computer Nueve Corporation and Medical Electronic Information System Pharmastatistical
-    Stastical Data Reporting
-  :authors: 'Ethenia Alicee Scott '
-  :abstract: The demo presentation will present a Pharmaceutical Statistical Data
-    beta project.  The beta project will present a platform for Pharmaceutical companies  researchers
-    to store and share directly to Doctors Electronically Information and statistical
-    data for the purpose of sales, Doctor education, patient education through presentation
-    or printable hand which saves on printer paper cost.
+    the collaboration potential of Danish universities. The poster will highlight
+    the halfway results and stipulate the next steps and expected outcomes.
+  :type: poster
 - :title: 'Cirtec: open citation content data, author-oriented services and indicators'
   :authors: Sergey Parinov
   :abstract: 'The Citec project funded by RANEPA provides open citation content data
@@ -28,12 +224,13 @@
     system. One of current activities of the Cirtec project is a design of author-oriented
     services, data and indicators based on citation data parsed from three groups
     of research papers linked with a specific author. These three groups of papers
-    for each author are: (1)  own papers of a specific author, which available at
-    RePEc by linkages from an author profile in RePEc Author Service; (2) papers cited
-    by this author, which can be collected using CitEc citation relationships to the
+    for each author are: (1) own papers of a specific author, which available at RePEc
+    by linkages from an author profile in RePEc Author Service; (2) papers cited by
+    this author, which can be collected using CitEc citation relationships to the
     author papers available at RePEc; (3) citing papers for this author, which available
-    by links from CitEc citation relationships available at RePEc. '
-- :title: 'OpenDMP: an open and interoperable platform for FAIR data and DMPs '
+    by links from CitEc citation relationships available at RePEc.'
+  :type: demo
+- :title: 'OpenDMP: an open and interoperable platform for FAIR data and DMPs'
   :authors: Georgios Kakaletris, Diamantis Tziotzios, Ioannis Kalyvas, Elli Papadopoulou
   :abstract: 'One of the aims of Open Science is to foster reproducibility and reusability
     of research outputs. Hence, Open Science covers the whole research lifecycle to
@@ -53,52 +250,41 @@
     no barriers for its use and adoption. It does so by applying common standards
     for machine-actionable DMPs as defined by the global research data community of
     RDA and by communicating and consulting with researchers, research communities
-    and funders to better reflect on their needs.      The demo presentation will
-    cover the OpenDMP platform that provides the scientific community with a free,
-    open and flexible instrument for the handling, validation and dissemination of
-    their data management plans, in line with policies settled by a variety of funding
-    agencies, institutions and other initiatives. OpenDMP work was inspired by the
-    lack of a platform that may adapt to any and all requirements that may be present
-    in a data management planning environment. It aims to combine the flexibility
-    of adhoc questionnaires with the power of a structured information system while
-    capturing the semantics of a data management plan, and the rigidness of funding
-    and/or validation rules. It also attempts to embrace the need for collaboration
-    around the structuring of a data management plan, its evolution and sharing. Moreover,
-    it emphasizes on achieving interoperability and enabling actionability of data
-    management plans, that will allow systems to not only validate, but also to automate
-    tedious, currently user driven, activities.   In the demo section, the audience
-    will be offered:   A very short introduction on the concept of data management
-    and its relation to open science policies and best practices.   An overview of
-    key concepts of the data management planning, as incorporated in OpenDMP, with
-    a focus on FAIR DMPs. Those will cover projects, funders, dataset profiles, data
-    management plans, dataset descriptions, contributors etc.   An overview of the
-    key features of OpenDMP that differentiate it from other solutions that existed,
-    exist or emerge.   A brief overview of the technology that allows OpenDMP to be
-    modern, attractive, performant and open.   A walk through the systems’ functionality
-    with hands on access to the system, that will unveil all main project features
-    to the audience.   A preview of the plans of the implementation team for latest
-    developments towards interoperable, actionable data management planning.   Further
-    information of how to get access and exploit the free and open services of OpenDMP,
-    in any of the supported manners, be it institutional, national or following other
-    scopes. '
-- :title: 'Statecharts: Ideal Community Collaboration Becomes Real. '
-  :authors: Tudor Sorin Andrei
-  :abstract: 'Auto-generated charts from declarative (json) code open the path to
-    having a common language for collaboration. The implications are not just theoretical.  This
-    demo showcases how a feature planned with Statecharts but coded with  React.js
+    and funders to better reflect on their needs. The demo presentation will cover
+    the OpenDMP platform that provides the scientific community with a free, open
+    and flexible instrument for the handling, validation and dissemination of their
+    data management plans, in line with policies settled by a variety of funding agencies,
+    institutions and other initiatives. OpenDMP work was inspired by the lack of a
+    platform that may adapt to any and all requirements that may be present in a data
+    management planning environment. It aims to combine the flexibility of adhoc questionnaires
+    with the power of a structured information system while capturing the semantics
+    of a data management plan, and the rigidness of funding and/or validation rules.
+    It also attempts to embrace the need for collaboration around the structuring
+    of a data management plan, its evolution and sharing. Moreover, it emphasizes
+    on achieving interoperability and enabling actionability of data management plans,
+    that will allow systems to not only validate, but also to automate tedious, currently
+    user driven, activities. In the demo section, the audience will be offered: A
+    very short introduction on the concept of data management and its relation to
+    open science policies and best practices. An overview of key concepts of the data
+    management planning, as incorporated in OpenDMP, with a focus on FAIR DMPs. Those
+    will cover projects, funders, dataset profiles, data management plans, dataset
+    descriptions, contributors etc. An overview of the key features of OpenDMP that
+    differentiate it from other solutions that existed, exist or emerge. A brief overview
+    of the technology that allows OpenDMP to be modern, attractive, performant and
+    open. A walk through the systems’ functionality with hands on access to the system,
+    that will unveil all main project features to the audience. A preview of the plans
+    of the implementation team for latest developments towards interoperable, actionable
+    data management planning. Further information of how to get access and exploit
+    the free and open services of OpenDMP, in any of the supported manners, be it
+    institutional, national or following other scopes.'
+  :type: demo
+- :title: 'Statecharts: Ideal Community Collaboration Becomes Real'
+  :authors: " Andrei Tudor"
+  :abstract: Auto-generated charts from declarative (json) code open the path to having
+    a common language for collaboration. The implications are not just theoretical.
+    This demo showcases how a feature planned with Statecharts but coded with React.js
     can be easily adapted into plain Javascript while retaining the majority of the
-    original code.   This demo intends to offer a glimpse of how Statecharts can enable
+    original code. This demo intends to offer a glimpse of how Statecharts can enable
     smooth collaboration between code contributors whose institutions have adopted
-    different technologies. '
-- :title: Refining InCites Benchmarking & Analytics with verified VIVO data
-  :authors: M. Benjamin Gross, Miguel Garcia, Marko Zavko, Rohit Kulkarni
-  :abstract: InCites is a benchmarking and analytics tool built upon best-in-class
-    Web of Science data that enables comprehensive insight into your organization’s
-    performance. Currently in beta release, Clarivate has recently introduced the
-    “My Organization” module for InCites that enables users to refine the InCites
-    dataset using their own verified faculty and disambiguation data.   InCites with
-    My Organization delivers standardized researcher, team & departmental reporting
-    to increase relevance of bibliometric data for all users. Leveraging the data
-    produced from existing workflows users have developed to build their VIVO databases,
-    MyOrg subscribers can easily populate their MyOrg module database with VIVO data
-    using open-source Python code available on GitHub at https://github.com/Clarivate-SAR.
+    different technologies.
+  :type: demo

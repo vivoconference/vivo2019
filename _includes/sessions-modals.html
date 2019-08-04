@@ -32,6 +32,7 @@
 						  {% for poster in site.data.posters %}
 						  	<div class="row">
 						  	  <h5>{{ poster[":title"] }}</h5>
+						  	  Type: {{ poster[":type"] }}
 						  	  <p class="theme-description">{{ poster[":abstract"] }}</p>
 						  	  <p class="name">{{ poster[":authors"] }}</p>
 						  	</div>
