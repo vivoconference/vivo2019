@@ -389,6 +389,7 @@ With the Vitro Query Tool, we build upon the work of Cornell, using their DataDi
   id: 805
   title: "Poster Session"
   description: ""  
+  additionaldata: "posters"
 -
   id: 808
   title: "Closing Session"

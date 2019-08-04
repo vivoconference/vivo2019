@@ -27,6 +27,17 @@
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 						{% endif %}
+						{% if session.additionaldata %}
+						  <div class="additionaldata">
+						  {% for poster in site.data.posters %}
+						  	<div class="row">
+						  	  <h5>{{ poster[":title"] }}</h5>
+						  	  <p class="theme-description">{{ poster[":abstract"] }}</p>
+						  	  <p class="name">{{ poster[":authors"] }}</p>
+						  	</div>
+						  {% endfor %}
+						  </div>
+						{% endif %}
 						<hr>
 						<div class="people-details">
 							{% for speaker in site.data.speakers %}
@@ -43,7 +54,7 @@
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
 					                            {% for ribbon in speaker.ribbon %}
-					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>
 					                            {% endfor %}
 					                        </div>
 					                        {% endif %}
