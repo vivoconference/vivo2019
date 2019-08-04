@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/talk-proposals", text: "CFP"}
  - {link: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050", text: "Register"}
-# - {permalink: "/attend/", text: "Attend"}
+ - {permalink: "/attend/", text: "Attend"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/news/sponsorship", text: "Sponsor"}
@@ -235,8 +235,8 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Conference Hotel, Activities, and Transit"
 directionDetailsCards:
  - {title: "Conference Hotel", information: 'Stay, dine, and attend VIVO 2019 at the beautiful <a href="https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html?WT.mc_id=zELWAAA0EU1WW2PSH3Nano4DGBrandx&WT.srch=1&utm_source=AdWords&utm_medium=ppc&utm_campaign=paidsearch&campaignid=638566708&adgroupid=27834264531&targetid=kwd-24824365235">Hilton Podgorica Crna Gora</a> in the heart of <a href="https://www.visit-montenegro.com/main-cities/podgorica/">Podgorica</a> in Montenegro.'}
- - {title: "Activities in Duke and Durham", information: 'Enjoy the renowned Duke Gardens and neo-gothic architecture at our “university in the forest.” Nearby Durham’s revitalized downtown boasts an amazing food culture, a thriving art scene, and bustling shopping districts in historic buildings.<br><br><strong><a href="/news/things-to-do">Learn more...</a></strong>'}
- - {title: "Traveling to Durham", information: 'Located on the East Coast, <a href="https://www.rdu.com/">Raleigh-Durham International Airport</a> is a major air hub only 15 minutes from Duke. We’ve got metropolitan convenience with a small-town feel!<br><br><strong><a href="/news/getting-around">More info...</a></strong>'}
+ - {title: "Things to do in Podgorica", information: 'Podgorica is the capital of Montenegro with a population of about 150,000 positioned in the middle of the country, in a picturesque area with 2 rivers.<br><br><strong><a href="/news/Things-to-do">Learn more...</a></strong>'}
+ - {title: "Getting to Podgorica with Grand Travel", information: 'Getting to Podgorica with Grand Travel Grand Travel agency is able to provide high class transportation service from/to airports Podgorica, Tivat, Dubrovnik, Tirana or inside of Montenegro.<br><br><strong><a href="/news/Grand">Learn more...</a></strong>'}
 
 # Hackathon
 hackathonTitle: "Hackathon"

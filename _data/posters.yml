@@ -1,0 +1,104 @@
+- :title: 'New approaches to research analytics – an overview of the OPERA project:
+    Collaborating Danish universities exploring various VIVO platforms'
+  :authors: 'mosa@dtu.dk, nidl@dtu.dk, chste@dtu.dk, kshi@dtu.dk, pmm@aub.aau.dk ;
+    davidp@hum.aau.dk; birger@hum.aau.dk  '
+  :abstract: 'The Danish project OPERA, Open Research Analytics, is a joint collaboration
+    between Danish Universities as well as international partners. The project is
+    exploring new approaches to best practice research analytics that should be useful,
+    relevant and responsible and furthermore acknowledging Open Science endeavors
+    across research areas.    The OPERA project is work in progress and already showing
+    promising results. Some of the fundamental elements in the project is the VIVO
+    platforms showcasing university specific advanced research analytics and a national
+    VIVO platform populated with Dimensions data as well as complementing metadata
+    underlining the Open Science elements, advanced network analysis and modules exploring
+    the collaboration potential of Danish universities.   The poster will highlight
+    the halfway results and stipulate the next steps and expected outcomes.  '
+- :title: Computer Nueve Corporation and Medical Electronic Information System Pharmastatistical
+    Stastical Data Reporting
+  :authors: 'Ethenia Alicee Scott '
+  :abstract: The demo presentation will present a Pharmaceutical Statistical Data
+    beta project.  The beta project will present a platform for Pharmaceutical companies  researchers
+    to store and share directly to Doctors Electronically Information and statistical
+    data for the purpose of sales, Doctor education, patient education through presentation
+    or printable hand which saves on printer paper cost.
+- :title: 'Cirtec: open citation content data, author-oriented services and indicators'
+  :authors: Sergey Parinov
+  :abstract: 'The Citec project funded by RANEPA provides open citation content data
+    parsed from research papers in PDF available at RePEc and Socionet research information
+    system. One of current activities of the Cirtec project is a design of author-oriented
+    services, data and indicators based on citation data parsed from three groups
+    of research papers linked with a specific author. These three groups of papers
+    for each author are: (1)  own papers of a specific author, which available at
+    RePEc by linkages from an author profile in RePEc Author Service; (2) papers cited
+    by this author, which can be collected using CitEc citation relationships to the
+    author papers available at RePEc; (3) citing papers for this author, which available
+    by links from CitEc citation relationships available at RePEc. '
+- :title: 'OpenDMP: an open and interoperable platform for FAIR data and DMPs '
+  :authors: Georgios Kakaletris, Diamantis Tziotzios, Ioannis Kalyvas, Elli Papadopoulou
+  :abstract: 'One of the aims of Open Science is to foster reproducibility and reusability
+    of research outputs. Hence, Open Science covers the whole research lifecycle to
+    create links between the different steps and processes by securing the provenance
+    of data and by enabling retractability of raw and processed data (incl. versioned
+    data) at any time during and after a project ends, while documenting and informing
+    about the processes undertaken to derive results. A Data Management Plan (DMP)
+    contains information concerning the research processes, the data utilized and
+    generated throughout a project’s lifetime, and the policies surrounding them.
+    Still lacks automated solutions and workflows that connect the DMP to the actual
+    data where they are stored and link to other useful information such as publications
+    and funding information, thus enabling the creation of coherent/complete research
+    entities. In an open and FAIR research ecosystem that is currently being realised,
+    information linking between research processes and research outputs is essential.
+    OpenDMP is the joint effort of OpenAIRE and EUDAT to deliver an open platform
+    for Data Management Planning that addresses those demands/ issues and assumes
+    no barriers for its use and adoption. It does so by applying common standards
+    for machine-actionable DMPs as defined by the global research data community of
+    RDA and by communicating and consulting with researchers, research communities
+    and funders to better reflect on their needs.      The demo presentation will
+    cover the OpenDMP platform that provides the scientific community with a free,
+    open and flexible instrument for the handling, validation and dissemination of
+    their data management plans, in line with policies settled by a variety of funding
+    agencies, institutions and other initiatives. OpenDMP work was inspired by the
+    lack of a platform that may adapt to any and all requirements that may be present
+    in a data management planning environment. It aims to combine the flexibility
+    of adhoc questionnaires with the power of a structured information system while
+    capturing the semantics of a data management plan, and the rigidness of funding
+    and/or validation rules. It also attempts to embrace the need for collaboration
+    around the structuring of a data management plan, its evolution and sharing. Moreover,
+    it emphasizes on achieving interoperability and enabling actionability of data
+    management plans, that will allow systems to not only validate, but also to automate
+    tedious, currently user driven, activities.   In the demo section, the audience
+    will be offered:   A very short introduction on the concept of data management
+    and its relation to open science policies and best practices.   An overview of
+    key concepts of the data management planning, as incorporated in OpenDMP, with
+    a focus on FAIR DMPs. Those will cover projects, funders, dataset profiles, data
+    management plans, dataset descriptions, contributors etc.   An overview of the
+    key features of OpenDMP that differentiate it from other solutions that existed,
+    exist or emerge.   A brief overview of the technology that allows OpenDMP to be
+    modern, attractive, performant and open.   A walk through the systems’ functionality
+    with hands on access to the system, that will unveil all main project features
+    to the audience.   A preview of the plans of the implementation team for latest
+    developments towards interoperable, actionable data management planning.   Further
+    information of how to get access and exploit the free and open services of OpenDMP,
+    in any of the supported manners, be it institutional, national or following other
+    scopes. '
+- :title: 'Statecharts: Ideal Community Collaboration Becomes Real. '
+  :authors: Tudor Sorin Andrei
+  :abstract: 'Auto-generated charts from declarative (json) code open the path to
+    having a common language for collaboration. The implications are not just theoretical.  This
+    demo showcases how a feature planned with Statecharts but coded with  React.js
+    can be easily adapted into plain Javascript while retaining the majority of the
+    original code.   This demo intends to offer a glimpse of how Statecharts can enable
+    smooth collaboration between code contributors whose institutions have adopted
+    different technologies. '
+- :title: Refining InCites Benchmarking & Analytics with verified VIVO data
+  :authors: M. Benjamin Gross, Miguel Garcia, Marko Zavko, Rohit Kulkarni
+  :abstract: InCites is a benchmarking and analytics tool built upon best-in-class
+    Web of Science data that enables comprehensive insight into your organization’s
+    performance. Currently in beta release, Clarivate has recently introduced the
+    “My Organization” module for InCites that enables users to refine the InCites
+    dataset using their own verified faculty and disambiguation data.   InCites with
+    My Organization delivers standardized researcher, team & departmental reporting
+    to increase relevance of bibliometric data for all users. Leveraging the data
+    produced from existing workflows users have developed to build their VIVO databases,
+    MyOrg subscribers can easily populate their MyOrg module database with VIVO data
+    using open-source Python code available on GitHub at https://github.com/Clarivate-SAR.
