@@ -1,21 +1,27 @@
 -
   id: 1
-  title: "ReCiter: an open source author disambiguation system for academic medical institutions"
-  description: "Staff at medical institutions are regularly called upon to produce and maintain lists of scholarly publications authored by individuals ranging from NIH-funded principal investigators to people affiliated with other institutions such as alumni and residents. This work tends to be done on an ad hoc basis and is time-consuming, especially when profiled individuals have common names. Often, feedback from the authors themselves is not adequately captured in some central location and repurposed for future requests.
+  title: "Installing and using ReCiter, an open source author disambiguation and publication management system"
+  description: "Staff at academic institutions are regularly called upon to produce and maintain lists of scholarly publications authored by individuals ranging from principal investigators to people affiliated with other institutions such as alumni and residents. This work tends to be done on an ad hoc basis and is time-consuming, especially when profiled individuals have common names. Often, feedback from the authors themselves is not adequately captured in some central location and repurposed for future requests.
 
-ReCiter is a highly accurate, rule-based system for inferring which publications in PubMed a given person has authored. ReCiter includes a Java application, a DynamoDB-hosted database, and a set of RESTful microservices which collectively allow institutions to maintain accurate and up-to-date author publication lists for thousands of people. This software is optimized for disambiguating authorship in PubMed and, optionally, Scopus.
+ReCiter is a highly accurate, machine learning system for inferring which publications in PubMed a given person has authored. ReCiter includes a Java application, a DynamoDB-hosted database, and a set of RESTful microservices which collectively allow institutions to maintain accurate and up-to-date author publication lists for thousands of people. This software is optimized for disambiguating authorship in PubMed and, optionally, Scopus.
 
 ReCiter rapidly and accurately identifies articles, including those at previous affiliations, by a given person. It does this by leveraging institutionally maintained identity data (e.g., departments, relationships, email addresses, year of degree, etc.) With the more complete and efficient searches that result from combining these types of data, individuals at institutions can save time and be more productive. Running ReCiter daily, one can ensure that the desired users are the first to learn when a new publication has appeared in PubMed.
 
+
 ReCiter is freely available and open source under the Apache 2.0 license. https://github.com/wcmc-its/ReCiter
 
-For our presentation, we will demonstrate:
-* How to install ReCiter
-* How to load ReCiter with identity data
-* How to run ReCiter
-* Its API outputs
-* How ReCiter integrates with a third-party interface for capture feedback, feedback which is fed back into ReCiter to further improve accuracy"
-  speakers: ["PaulAlbert", "SarbajitDutta", "MichaelBales", "JieLin", "TerrieWheeler"]
+At the end of this workshop, participants will:
+* Understand the problem of publication management and author disambiguation
+* See a demo of ReCiter and Publications Manager as it is used at Weill Cornell
+* Understand at a high level the service-based architecture of ReCiter
+* Learn how to install ReCiter to run on a local machine
+* Learn how to easily install ReCiter on Amazon Web Services (AWS) and all its dependencies using a ready-to-use CloudFormation template
+* Learn how to configure ReCiter
+
+In order to maximize the utility of the workshop, we ask that participants complete several tasks ahead of time including install several dependencies, create a free AWS account, and request an API key for PubMed. Additionally, if you wish to try ReCiter against profiles from your institution. For more information, view here:
+https://shorturl.at/STW14
+"
+  speakers: ["PaulAlbert", "SarbajitDutta"]
 -
   id: 2
   title: "Open source tools to populate VIVO with Web of Science data"
@@ -386,6 +392,25 @@ How and when.  A new ontology could be developed in three phases by the Ontology
 With the Vitro Query Tool, we build upon the work of Cornell, using their DataDistributor as an API for storing and running a library of queries. To make this more accessible, we initially created a user interface allowing authorised users the ability to view and create queries using the DataDistributor building blocks, before extending this with the ability to schedule the execution of queries and distribute the results (e.g. via email). In utilising the existing DataDistributor, not only do we provide a means of creating a library of queries and reports for users to execute or receive, but it also allows the data to be exposed via API endpoints that can be ingested by other applications or used by visualisations within the application."
   speakers: ["GrahamTriggs", "QaziAsimIjazAhmad", "ChristianHauschke"]
 -
+id: 38
+  title: "Staff at academic institutions are regularly called upon to produce and maintain lists of scholarly publications authored by individuals ranging from principal investigators to people affiliated with other institutions such as alumni and residents. This work tends to be done on an ad hoc basis and is time-consuming, especially when profiled individuals have common names. Often, feedback from the authors themselves is not adequately captured in some central location and repurposed for future requests. ORCID is sometimes touted as a silver bullet to the problem of author disambiguation and publications management, but it does not fully meet institutional needs. 
+
+ReCiter is a highly accurate, open source, machine learning system for inferring which publications in PubMed a given person has authored. It rapidly and accurately identifies articles, including those at previous affiliations, by a given person. It does this by leveraging institutionally maintained identity data (e.g., departments, relationships, email addresses, year of degree, etc.) With the more complete and efficient searches that result from combining these types of data, individuals at institutions can save time and be more productive. Running ReCiter daily, one can ensure that the desired users are the first to learn when a new publication has appeared in PubMed.
+
+We envision ReCiter becoming part of a larger publications management ecosystem, one which performs the following tasks:
+* harvests data from external sources
+* synthesizes and deduplicates records across multiple systems
+* allows administrator to correct metadata and/or disambiguate records (e.g., articles) 
+* makes machine learning-based suggestions re: author/creator identity of records
+* transforms and standardizes data
+* collects feedback on author identity through a simple and intuitive user interface
+* syndicates records to a variety of target systems
+
+Much of the infrastructure for this work has been accomplished. In July, Weill Cornell's development team launched a CloudFormation template, which allows for easy install of all the dependencies for this system on the Amazon Web Services infrastructure.
+
+When realized, this system will allow institutions to meet a range of sophisticated needs from reporting to populating scholarly profiles."
+  speakers: ["PaulAlbert", "SarbajitDutta", "MichaelBales", "JieLin", "TerrieWheeler"]
+ - 
   id: 805
   title: "Poster Session"
   description: ""  
