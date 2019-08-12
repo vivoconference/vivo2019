@@ -231,7 +231,7 @@ logisticsMapMobileCenterCoordinates: "42.439894, 19.263256"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
+directionDetailsImage: "hotel.jpg"
 directionDetailsTitle: "Conference Hotel, Activities, and Transit"
 directionDetailsCards:
  - {title: "Conference Hotel", information: 'Stay, dine, and attend VIVO 2019 at the beautiful <a href="https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html?WT.mc_id=zELWAAA0EU1WW2PSH3Nano4DGBrandx&WT.srch=1&utm_source=AdWords&utm_medium=ppc&utm_campaign=paidsearch&campaignid=638566708&adgroupid=27834264531&targetid=kwd-24824365235">Hilton Podgorica Crna Gora</a> in the heart of <a href="https://www.visit-montenegro.com/main-cities/podgorica/">Podgorica</a> in Montenegro.'}
