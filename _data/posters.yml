@@ -217,6 +217,10 @@
     the collaboration potential of Danish universities. The poster will highlight
     the halfway results and stipulate the next steps and expected outcomes.
   :type: poster
+  - :title:  Opportunities for Intra-institutional Linked Open Data - Towards a Campus Knowledge Graph 
+  :authors: Don Elsborg, Anne Wilson,  Katie Mika, Erik Radio, Matt Ramey, Alex Viggio
+  :abstract: While Linked Open Data promised automatic and obvious connections between structured data, interoperability remains a thorny social, not technical, issue. It is essentially an information model that relies on the removal of silos and requires interdepartmental collaboration. An intra-university knowledge graph operationalizes the network of relationships on which innovation is built. We are proposing to develop a Linked Open Data prototype that creates and surfaces relationships between the people, publications, and other high level metadata residing within the CU Experts semantic web application with departmental domain specific metadata sites which contain datasets, equipment, or observable phenomena? The problem space is very large and domains within campus currently have structured and unstructured metadata. In order to achieve a goal that demonstrates the value of having these cross departmental relationships, this project is scoped to work a specific institute within our University which already has domain specific metadata in space sciences.  We want to demonstrate, using metadata, how CU Boulder was involved with sending a spacecraft to every planet in the solar system.
+  :type: poster
 - :title: 'Cirtec: open citation content data, author-oriented services and indicators'
   :authors: Sergey Parinov
   :abstract: 'The Citec project funded by RANEPA provides open citation content data
