@@ -11,46 +11,46 @@ The conference task force looks forward to the VIVO 2019 event dates, bringing t
 
 ##### Attending Organizations
 
-IMO-Online
-ATHENA Research & Innovation Center 
-Brown University
-Coko Foundation
-Columbia University
-DANS (Data Archiving and Networked Services)
-Digital Science
-Dublin City University
-Duke University
-euroCRIS
-Ghent University
-Humboldt-Universität zu Berlin
-LYRASIS
-Mittweida University of Applied Sciences
-MTA SZTAKI
-Ontocale
-Open Force Field Initiative
-Osnabrück University
-RANEPA
-Robert Koch Institute 
-Russian Academy of Sciences
-SIGMA
-Simon Fraser University
-Smithsonian Libraries
-Springer-Verlag GmbH
-Technical University of Denmark
-Technische Informationsbibliothek (TIB)
-Texas A&M University
-The University of Iowa
-Université du Québec à Montréal
-University of Colorado Boulder
-University of Donja Gorica
-University of Montenegro
-University of Oxford
-University of Strathclyde / euroCRIS
-Virginia Tech
-Warsaw University of Technology
-Web of Science Group
-Weill Cornell Medical Center
-ZEW Mannheim GmbH
+* IMO-Online
+* ATHENA Research & Innovation Center 
+* Brown University
+* Coko Foundation
+* Columbia University
+* DANS (Data Archiving and Networked Services)
+* Digital Science
+* Dublin City University
+* Duke University
+* euroCRIS
+* Ghent University
+* Humboldt-Universität zu Berlin
+* LYRASIS
+* Mittweida University of Applied Sciences
+* MTA SZTAKI
+* Ontocale
+* Open Force Field Initiative
+* Osnabrück University
+* RANEPA
+* Robert Koch Institute 
+* Russian Academy of Sciences
+* SIGMA
+* Simon Fraser University
+* Smithsonian Libraries
+* Springer-Verlag GmbH
+* Technical University of Denmark
+* Technische Informationsbibliothek (TIB)
+* Texas A&M University
+* The University of Iowa
+* Université du Québec à Montréal
+* University of Colorado Boulder
+* University of Donja Gorica
+* University of Montenegro
+* University of Oxford
+* University of Strathclyde / euroCRIS
+* Virginia Tech
+* Warsaw University of Technology
+* Web of Science Group
+* Weill Cornell Medical Center
+* ZEW Mannheim GmbH
 
 
 
