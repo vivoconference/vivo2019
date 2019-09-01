@@ -303,3 +303,22 @@
     smooth collaboration between code contributors whose institutions have adopted
     different technologies.
   :type: demo
+- :title:  'VIVO in an Evolving Institutional Landscape' 
+  :authors: Alex Viggio, Don Elsborg, Vance Howard, Matt Ramey
+  :abstract: 'The CU Experts (VIVO) implementation team at CU Boulder has experienced 
+  tremendous organizational change in 2019. It finds itself in the midst of an evolving 
+  institutional landscape, unprecedented since the creation of the Faculty Information 
+  System that powers CU Experts more than 20 years ago. The original team is now split 
+  across two separate departments, with one foot remaining on the academic side of the 
+  university and the other newly planted on the business side. Many of the groups and 
+  systems that we are interacting with are also new or quickly evolving, with 
+  administrators across campus pushing for innovation. Continuing to work together as 
+  colleagues, we recently engaged with collaborators from campus research institutes 
+  and libraries to submit two innovation grant proposals which have been accepted. 
+  This view of CU Boulder’s landscape also reminds us that CU Experts, which has been 
+  in production since 2010, is no longer the new kid on the block. How might our VIVO 
+  implementation evolve, with input from thought leaders in the VIVO community, to 
+  best support our evolving institution? This poster hopes to engage attendees from 
+  other institutions that have implemented VIVO or similar solutions, or are evaluating 
+  an implementation strategy.'
+  :type: poster
