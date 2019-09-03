@@ -59,14 +59,14 @@
     	sessionIds: [9, 36]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
-    	sessionIds: [13]
+    	startTime: "12:00",
+    	endTime: "13:30",
+    	sessionIds: [903]
     }
     - {
-    	startTime: "13:00",
-    	endTime: "14:30",
-    	sessionIds: [903]
+        startTime: "13:30",
+        endTime: "14:30",
+    	sessionIds: [13]
     }
     - {
     	startTime: "14:30",
