@@ -16,6 +16,7 @@ The conference task force looks forward to the VIVO 2019 event dates, bringing t
 * Brown University
 * Coko Foundation
 * Columbia University
+* CSC – IT Center for Science
 * DANS (Data Archiving and Networked Services)
 * Digital Science
 * Dublin City University
