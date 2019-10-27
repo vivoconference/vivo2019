@@ -53,6 +53,7 @@ Workshop agenda:
   description: "VIVO is an open source tool based on linked open data concepts for connecting and publishing a wide range of research information within and across institutions. The goal of this workshop is to introduce new community members to the VIVO project and software. The workshop will consist of three sections: 1. A summary of VIVO’s history and what it does, 2. How it works, and 3. Where the project is heading. Part 1 will include a background of the VIVO project, how institutions and organizations are currently using it, how institutional stakeholders are involved, what benefits it offers to researchers, to institutions, and to the global community. Part 2 will include a high level discussion about how VIVO works and introduce the concepts of Resource Description Framework, Ontology, Vitro, Triple Pattern Fragments, how VIVO is managed, and how to feed downstream systems. Finally, part 3 will introduce you to next-gen VIVO initiatives such as, decoupling of the architecture, the next version of the ontology, the VIVO Scholar, VIVO Combine, the internationalization efforts, and the VIVO Search. 
 You’ll learn how to find the right resources as a new VIVO implementer including data sources, team members, governance models, and support structures. This workshop brings best practices and “lessons learned” from mature VIVO projects to new implementations. We’ll help you craft your messages to different stakeholders, so you’ll leave this workshop knowing how to talk about VIVO to everyone from your provost to faculty members to web developers."
   speakers: ["VioletaIlik", "BenjaminGross", "MichaelConlon"]
+  presentation: ["https://drive.google.com/drive/folders/1ZvJhOvoQ1SD5QTwoUy06LCQpPeViM8pk?usp=sharing"]
 -
   id: 5
   title: "Opening Address"
@@ -218,7 +219,7 @@ https://demos.library.tamu.edu/scholars-ui/"
   speakers: ["WilliamSWelling", "DongJoonLee", "DouglasHahn", "JasonSavell", "KevinADay", "EthelMejia", "BruceEHerbert"]
 -
   id: 19
-  title: "Making VIVO vivid - Embedding social media content in VIVO@UOS"
+  title:  
   description: "VIVO at Osnabrück University is used to present scholarly activity especially third-party funded research projects to the interested public to improve transparency in research funding. In the early stage of development, the VIVO content was limited to research project key facts (e.g. abstract, related/selected publications, external project links, keywords) mainly extracted from the operational finance systems that is not intended to be used for presentation purposes. As VIVO strengths lay in searching, browsing and visualizing scholar activity for the wider public, the searchable content should not be limited to complex academic language as it is used in project abstracts or publications, a nonacademic person would not search for.
 
 Science goes Public - For more than 10 years the event series “Osnabrück Knowledge Forum” tries to make research more accessible. Every year, public is called upon to challenge Osnabrück University Professors by sending questions about any kinds of science topics to be answered within 4 minutes lightning talks in a precise, clear and entertaining way in front of the interested public. This »evening of knowledge» and its findings are showcased in a variety of media such as film sequences on YouTube or as an image brochure for University guests (PDF). All these formats do not connect content to researchers as VIVO connects researchers, projects or organizations with each other. 
@@ -232,6 +233,7 @@ In this presentation, we will show how social media content could be used to enr
 
 For us, these results from faculty across a range of disciplines will help inform institutional policy and practice discussions about research tracking and evaluation, such as a responsible research assessment policy. Results will also inform our in-process implementation of an institutional researcher profiles systems, and training offerings on disseminating research and assessing its impact. As movements such as DORA (Declaration on Research Assessment) and the Leiden Manifesto for Research Metrics demonstrate, faculty, institutions, and funders are re-examining the way metrics are used and methods for demonstrating impact. This presentation on a university-wide survey that includes summary data and the survey questions used offers an example that could be adapted and repeated elsewhere to gauge current practices and faculty perspectives on how to change or move forward with research assessment across a range of disciplines and levels within a large, research institution."
   speakers: ["RachelAMiles", "AmandaMacDonald", "NathanielDPorter", "VirginiaPannabecker","JimAKuypers"]
+  presentation: ["https://vtechworks.lib.vt.edu/handle/10919/93360"]
 -
   id: 21
   title: "Invitation to Membership - VIVO Membership Task Force"
@@ -303,6 +305,7 @@ One of the lessons that we've learned during our years using VIVO has been that 
 
 [1] https://vivo.brown.edu/"
   speakers: ["HectorCorrea", "StevenMcCauley"]
+  presentation: ["https://doi.org/10.6084/m9.figshare.9792176.v1"]
 -
   id: 29
   title: "Semantic Cross-Site Search for VIVO"
@@ -403,6 +406,7 @@ How and when.  A new ontology could be developed in three phases by the Ontology
 
 With the Vitro Query Tool, we build upon the work of Cornell, using their DataDistributor as an API for storing and running a library of queries. To make this more accessible, we initially created a user interface allowing authorised users the ability to view and create queries using the DataDistributor building blocks, before extending this with the ability to schedule the execution of queries and distribute the results (e.g. via email). In utilising the existing DataDistributor, not only do we provide a means of creating a library of queries and reports for users to execute or receive, but it also allows the data to be exposed via API endpoints that can be ingested by other applications or used by visualisations within the application."
   speakers: ["GrahamTriggs", "QaziAsimIjazAhmad", "ChristianHauschke"]
+  presentation: ["https://doi.org/10.6084/m9.figshare.9897008.v1"]
 -
   id: 38
   title: "How institutions can use ReCiter to provide machine learning-based publications management as an enterprise service"
@@ -423,6 +427,7 @@ Much of the infrastructure for this work has been accomplished. In July, Weill C
 
 When realized, this system will allow institutions to meet a range of sophisticated needs from reporting to populating scholarly profiles."
   speakers: ["PaulAlbert", "SarbajitDutta", "MichaelBales", "JieLin", "TerrieWheeler"]
+  presentation: ["https://doi.org/10.6084/m9.figshare.9897032.v1"]
 - 
   id: 805
   title: "Poster Session"
