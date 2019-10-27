@@ -29,6 +29,7 @@ https://shorturl.at/STW14
 
 This technical workshop is appropriate for both beginning and advanced users. Please bring a laptop with Python installed. While a subscription is required for access to the Web of Science, all participants will be provided with temporary API credentials for the workshop. "
   speakers: ["BenjaminGross"]
+  presentation: ["https://doi.org/10.6084/m9.figshare.9856472"]
 -
   id: 3
   title: "euroCRIS and VIVO: Bringing Technologies and Communities Closer"
@@ -45,6 +46,7 @@ Workshop agenda:
 *. Pairing VIVO and CRISs: the benefits and challenges of creating and maintaining VIVOs based on institutional CRIS implementations
 *. Promoting and facilitating interoperability: using standards to make the exchange of data between CRIS and VIVO easier and more efficient. Update on: the  CERIF2VIVO mapping project."
   speakers: ["PabloDeCastro", "AnnaGuillaumet", "MicheleMinnielli", "EdSimons", "JuliaTrimmer"]
+  presentation: ["https://vivoconference.org/vivo2019/assets/presentations/CRIS-and-VIVO.pdf", "https://vivoconference.org/vivo2019/assets/presentations/euroCRIS_CRIS_Presentation_VIVO_Montenegro_2019_Ed_S.pdf"]
 -
   id: 4
   title: "Introduction to VIVO"
@@ -80,6 +82,7 @@ this talk, I will provide an overview of these efforts, their
 motivations, the challenges involved, and the nature of success (if any)."
   place: "Crystal Ball"
   speakers: ["HerbertVanDeSompel"]
+  presentation: ["https://www.slideshare.net/hvdsomp/collecting-the-organizational-scholarly-record"]
 
 -
   id: 7
@@ -96,6 +99,7 @@ In this talk, we would like to update the VIVO participants with where we stand 
 Read the CrossRef post for more info about the group:
 https://www.crossref.org/working-groups/conferences-projects/"
   speakers: ["AliaksandrBirukou", "PatriciaFeeney"]
+  presentation: ["https://vivoconference.org/vivo2019/assets/presentations/20190905-ConfPID-VIVO2019.pdf"]
 -
   id: 9
   title: "Update on VIVO Scholar"
@@ -244,6 +248,7 @@ ecosystem? In this talk, we discuss designing decentralised and
 socially-aware systems as well as their effects and artifacts."
   speakers: ["SarvenCapadisli"]
   place: "Crystal Ball A"
+  presentation: ["https://csarven.ca/presentations/social-scholarly-web-ecosystem/"]
 -
   id: 23
   title: "Using Campus Needs Involving Tenure & Promotion, Interdisciplinary Collaborations, and Institutional Research to Drive the Evolution of VIVO at Texas A&M University."
@@ -258,6 +263,7 @@ This joint experimental platform will be used to explore aspects such as: public
 
 The Dimensions VIVO is a collaboration between Danish universities, the IT consultants Vox Novitas and Ontocale and Digital Science, the producer of Dimensions."
   speakers: ["KarenHIbanez", "ChristinaSteensboe", "NikolineDLauridsen", "FranckFalcoz", "BrianLowe", "MarianneGauffriau", "AdrianPrice", "AnneLHøj", "KirstenKKruuse", "SimonPorter"]
+  presentation: ["https://vivoconference.org/vivo2019/assets/presentations/National-Open-Science-Research-Analytics.pdf"]
 -
   id: 25
   title: "Smithsonian Profiles: Experiences and Challenges of Implementing VIVO in a Non-University Setting"
@@ -283,6 +289,7 @@ For these reasons, SIGMA decided to join the DuraSpace community at the beginnin
 
 So, we have now an adapted SIGMA ontology based on the VIVO ontology and some tools that we will show in this presentation as examples of the VIVO ontology and tools, adapted to the Spanish science model."
   speakers: ["AnnaGuillaumet"]
+  presentation: ["https://vivoconference.org/vivo2019/assets/presentations/SIGMA-CRIS-An-implementation-of-VIVO-in-Spain.pdf"]
 -
   id: 28
   title: "A new (editing) frontend for VIVO"
@@ -328,6 +335,7 @@ Following the publication of this statement, an architecturally-minded team repr
 
 This presentation will include a detailed status of the completed as well as planned development activities following from the decisions of the architectural meeting."
   speakers: ["AndrewWoods", "BrianLowe", "BenjaminGross"]
+  presentation: ["https://docs.google.com/presentation/d/1kLy279DBQcwcypuha98HGdPyEIJKtRrwqlgWJgE4ZRE/edit?usp=sharing"]
 -
   id: 31
   title: "Our Scholarly Work: How To Maintain Shared Records"
@@ -346,6 +354,7 @@ REFERENCES
 [1] Harel, David. Statecharts: A Visual Formalism For Complex Systems. (1987). Science of Computer Programming, 8(3), 231-274. DOI: 10.1016/0167-6423(87)90035-9.
 [2] „Welcome to the world of statecharts.” https://statecharts.github.io/ . Retrieved 29 April 2019."
   speakers: ["AndreiTudor"]
+  presentation: ["https://docs.google.com/presentation/d/1apBfqAIcgdc8dWe3sy08usGW2p69QyIo3tLfEnxeD54/edit?usp=sharing"]
 -
   id: 33
   title: "A Framework for Researcher Engagement in RIMSs and its Operationalization in a VIVO-based System"
@@ -362,6 +371,7 @@ Stvilia, B., Wu, S., & Lee, D. J. (2019). A framework for researcher participati
   description: "We see the first VIVO conference to be held in Europe as a very positive sign of the worldwide attention the VIVO platform has attained. In this regard, we strongly believe a complete VIVO internationalization (i18n) is critical to reach a major adoption at an international level. We are certain it is a major driver of growth for VIVO, as many institutions need to have support for languages other than English. The VIVO i18n internationalization task force has established the roadmap to achieve this goal. However, a critical mass of stakeholders is essential for it to become a development priority.
 This presentation is meant as an exchange to gather the community and create a synergistic involvement in the internationalization of the VIVO platform."
   speakers: ["RachidBelkouch", "PierreRoberge"]
+  presentation: ["https://vivoconference.org/vivo2019/assets/presentations/Internationalization.pdf"]
 -
   id: 35
   title: "VIVO/Vitro as a platform for joint curation of a cultural heritage encyclopedia"
@@ -369,6 +379,7 @@ This presentation is meant as an exchange to gather the community and create a s
 Data was input and curated by historians, social scientists and other researchers from humanities. The Vitro code base had to be extended and sometimes overriden to comply with the requirements of the project. For example, editing rights had to be granted based on the edited data context, and a workflow for quality management had to be added to the system. The analysis of collected data has been helped by various statistical pages using SPARQL queries.
 Although the project has ended, we are still catching up with ideas to connect our registry with more and more services in the field."
   speakers: ["AndrásMicsik", "TamásFelker"]
+  presentation: ["http://eprints.sztaki.hu/9730/"]
 -
   id: 36
   title: "VIVO Ontology Version 2"
@@ -384,6 +395,7 @@ Be appropriate for use by any project seeking to build and use research graphs
 
 How and when.  A new ontology could be developed in three phases by the Ontology Interest Group of the VIVO Project, working in collaboration with other projects, ontologists, developers, and community members.  All are welcome to join the effort.  A second phase would be necessary for refinement, testing, and tooling for adoption.  A third phase is need for community change management, mapping to presentation data structures, testing, and training.  The existing ontology (version 1.x) will continue to be supported indefinitely."
   speakers: ["MichaelConlon", "VioletaIlik", "BrianLowe", "ChristianHauschke", "MarijaneWhite", "MuhammadJaved", "NaomiBraun"]
+  presentation: ["https://doi.org/10.6084/m9.figshare.9771701.v1"]
 -
   id: 37
   title: "A Library of Queries and Reports - introducing the Vitro Query Tool"
