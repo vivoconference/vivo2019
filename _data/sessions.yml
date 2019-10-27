@@ -45,6 +45,7 @@ Workshop agenda:
 *. Pairing VIVO and CRISs: the benefits and challenges of creating and maintaining VIVOs based on institutional CRIS implementations
 *. Promoting and facilitating interoperability: using standards to make the exchange of data between CRIS and VIVO easier and more efficient. Update on: the  CERIF2VIVO mapping project."
   speakers: ["PabloDeCastro", "AnnaGuillaumet", "MicheleMinnielli", "EdSimons", "JuliaTrimmer"]
+  presentation: ["https://vivoconference.org/vivo2019/assets/presentations/CRIS-and-VIVO.pdf", "https://vivoconference.org/vivo2019/assets/presentations/euroCRIS_CRIS_Presentation_VIVO_Montenegro_2019_Ed_S.pdf"]
 -
   id: 4
   title: "Introduction to VIVO"
@@ -362,6 +363,7 @@ Stvilia, B., Wu, S., & Lee, D. J. (2019). A framework for researcher participati
   description: "We see the first VIVO conference to be held in Europe as a very positive sign of the worldwide attention the VIVO platform has attained. In this regard, we strongly believe a complete VIVO internationalization (i18n) is critical to reach a major adoption at an international level. We are certain it is a major driver of growth for VIVO, as many institutions need to have support for languages other than English. The VIVO i18n internationalization task force has established the roadmap to achieve this goal. However, a critical mass of stakeholders is essential for it to become a development priority.
 This presentation is meant as an exchange to gather the community and create a synergistic involvement in the internationalization of the VIVO platform."
   speakers: ["RachidBelkouch", "PierreRoberge"]
+  presentation: ["https://vivoconference.org/vivo2019/assets/presentations/Internationalization.pdf"]
 -
   id: 35
   title: "VIVO/Vitro as a platform for joint curation of a cultural heritage encyclopedia"

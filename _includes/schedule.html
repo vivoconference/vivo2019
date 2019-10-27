@@ -61,7 +61,7 @@
 															{% endif %}
 														</li>
 														{% endif %}
-													{% endfor %}    
+													{% endfor %}
 												{% endfor %}
 		                                    </ul>
 										{% else %}
@@ -79,6 +79,19 @@
 													{% endfor %}
 												</li>
 											</ul>
+										{% endif %}
+										{% if session.presentation != null && session.presentation.size > 0%}
+											<div> <span itemprop="presentation">
+											{% if session.presentation.size > 1 %}
+												View Presentations:
+												{% for pres in session.presentation %}
+													<a class="theme-presentation" title="Presentation" target="_blank" href="{{ pres }}">Link {{ forloop.index + 1 }} </a></span>
+												{% endfor %}
+											{% else %}
+													<a class="theme-presentation" title="Presentation" target="_blank" href="{{ session.presentation[0] }}">View Presentation</a>
+											{% endif %}
+											</span>
+											</div>
 										{% endif %}
                                     </div>
                                 </div>
