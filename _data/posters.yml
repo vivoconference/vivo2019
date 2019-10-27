@@ -162,6 +162,7 @@
     in representing scholarship with analysis and recommendations regarding how each
     may be treated in version 2 of the VIVO ontology.
   :type: poster
+  :presentation: ["https://doi.org/10.6084/m9.figshare.9756770.v1"]
 - :title: What does a University look like?
   :authors: Simon Porter, Jared Watts
   :abstract: Universities come in many different shapes and sizes. Using the Dimensions
@@ -191,6 +192,7 @@
     MyOrg subscribers can easily populate their MyOrg module database with VIVO data
     using open-source Python code available on GitHub at https://github.com/Clarivate-SAR.
   :type: poster
+  :presentation: ["10.6084/m9.figshare.9856340"]
 - :title: 'From Analysis to Publication: Building Reproducible Data Science Workflows
     with Dimensions, Gigantum, Figshare, and Overleaf'
   :authors: Simon Porter, Jared Watts
@@ -232,6 +234,7 @@
   metadata in space sciences.  We want to demonstrate, using metadata, how CU Boulder was involved with sending
   a spacecraft to every planet in the solar system.'
   :type: poster
+  :presentation: ["https://doi.org/10.6084/m9.figshare.9771548.v1"]
 - :title: 'Cirtec: open citation content data, author-oriented services and indicators'
   :authors: Sergey Parinov
   :abstract: 'The Citec project funded by RANEPA provides open citation content data
