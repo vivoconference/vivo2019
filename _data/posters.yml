@@ -192,7 +192,7 @@
     MyOrg subscribers can easily populate their MyOrg module database with VIVO data
     using open-source Python code available on GitHub at https://github.com/Clarivate-SAR.
   :type: poster
-  :presentation: ["10.6084/m9.figshare.9856340"]
+  :presentation: ["https://doi.org/10.6084/m9.figshare.9856340"]
 - :title: 'From Analysis to Publication: Building Reproducible Data Science Workflows
     with Dimensions, Gigantum, Figshare, and Overleaf'
   :authors: Simon Porter, Jared Watts

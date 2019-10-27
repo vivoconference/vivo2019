@@ -42,6 +42,16 @@
 						  	  Type: {{ poster[":type"] }}
 						  	  <p class="theme-description">{{ poster[":abstract"] }}</p>
 						  	  <p class="name">{{ poster[":authors"] }}</p>
+						  	  {% if poster[":presentation"] %}
+								{% if poster[":presentation"].size > 1 %}
+									View poster:
+									{% for poster in poster[":presentation"] %}
+										<a class="theme-presentation" href="{{ pres }}" title="Presentation" target="_blank" >Link {{ forloop.index + 1 }} </a></span>
+									{% endfor %}
+								{% else %}
+										<a class="theme-presentation" href="{{ poster[':presentation'][0] }}" title="Presentation" target="_blank">View poster</a>
+								{% endif %}
+							{% endif %}
 						  	</div>
 						  {% endfor %}
 						  </div>
